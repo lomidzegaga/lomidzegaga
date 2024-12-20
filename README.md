@@ -1,11 +1,15 @@
 <a id="readme-top"></a>
 
 <div align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?&color=FFFFFF&pause=5000&size=36&lines=Hi,+I'm+Gaga+Lomidze">
+     <img src="https://readme-typing-svg.herokuapp.com?&color=FFFFFF&pause=10000&size=36&lines=Hi,+I'm+Gaga+Lomidze">
     <h3>Android Software Engineer</h3>
 </div>
 
-
+```kotlin
+    while (true) {
+      println("Everybody should learn to program a computer, because it teaches you how to think")
+   }
+```
 
 <details>
   <summary>Table of Contents</summary>
@@ -14,13 +18,13 @@
       <a href="#about-me">About Me</a>
     </li>
     <li>
-      <a href="#technologies-and-tools">Technologies & Tools</a>
-      <ul>
-        <li><a href="#demo-video">Demo Video</a></li>
-      </ul>
-      <ul>
-        <li><a href="#images">Images</a></li>
-      </ul>
+      <a href="#technologies--tools">Technologies & Tools</a>
+    </li>
+       <li>
+      <a href="#my-projects">My Projects</a>
+    </li>
+       <li>
+      <a href="#connect-with-me">Connect With Me</a>
     </li>
   </ol>
 </details>
@@ -33,24 +37,50 @@ I’m constantly learning and exploring new technologies to improve my skills an
 ### Technologies & Tools
 
 #### **Languages** 
-* ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-### **Frameworks & Libraries**
-* ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-* ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=codepen&logoColor=white)  
-* ![Hilt](https://img.shields.io/badge/Hilt-1D3557?style=for-the-badge&logo=dagger&logoColor=white)
-* ![Room](https://img.shields.io/badge/Room-EF5350?style=for-the-badge&logo=sqlite&logoColor=white)
-#### **Tools**  
-* ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-* ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-* ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+* Kotlin
+* Java(Basic)
+#### **Frameworks & Libraries**
+* Jetpack Compose
+* XML
+* Fragments
+* Navigation (XML/Compose)
+* Retrofit, OkHttp
+* Moshi, Gson
+* Glide, Coil
+* Firebase (Remote Config, App Distribution, Analytics, Crashlytics)
+* Room Database
+* Preference DataStore, SharedPreferences
+#### **Architectural Patterns**  
+* Clean Architecture
+* MVVM
+* MVI
+* Multi-Modular Architecture
+#### **Asynchronous Programming** 
+* Coroutines
+* RxJava
+* Flow
+* LiveData
+#### **Development Tools & Platforms**
+* Android Studio
+* Gradle
+* Git
+* Azure
+* Jira
+#### **Testing**
+* JUnit
+* Mockito
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-```kotlin
-class AboutMe {
-    val firstName = "Gaga"
-    val lastName = "Lomidze"
-    val linkedin = "https://www.linkedin.com/in/gaga-lomidze/"
-    val role = "Junior Android Developer"
-}
-```
+### My Projects
+I enjoy working with new ideas and technology; therefore, in my spare time, I work on personal projects to hone my abilities and realize my ideas. These projects demonstrate my love for coming up with creative and effective solutions 🚀
+
+[`see my projects`](https://github.com/lomidzegaga?tab=repositories)
+
+### Connect With Me
+
+<a href="https://www.linkedin.com/in/gaga-lomidze/" target="_blank">    
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
