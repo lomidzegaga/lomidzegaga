@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?&color=FFFFFF&pause=10000&size=36&lines=Hi,+I'm+Gaga+Lomidze">
+     <img src="https://readme-typing-svg.herokuapp.com?&color=F7B433&pause=10000&size=36&lines=Hi,+I'm+Gaga+Lomidze">
     <h3>Android Software Engineer</h3>
 </div>
 
