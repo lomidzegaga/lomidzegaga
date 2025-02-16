@@ -64,6 +64,8 @@ I’m constantly learning and exploring new technologies to improve my skills an
 * Android Studio
 * Gradle
 * Git
+* GitHub
+* Gitlab
 * Azure
 * Jira
 #### **Testing**
